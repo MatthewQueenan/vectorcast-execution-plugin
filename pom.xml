@@ -51,6 +51,12 @@ mean multi-part forms (i.e. form with file input like the multi-job create)
           <email>richard.keeble@vectorcast.com</email>
           <organization>Vector Software</organization>
       </developer>
+	  <developer>
+          <id>MatthewQueenan</id>
+          <name>Matthew Queenan</name>
+          <email>Matthew.Queenan@Vector.com</email>
+          <organization>Vector Software</organization>
+      </developer>
   </developers>
 
   <scm>
